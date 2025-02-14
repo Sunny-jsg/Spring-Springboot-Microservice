@@ -1,0 +1,11 @@
+package in.ashokit;
+
+public class SodexoPayment implements IPayment {
+
+	@Override
+	public boolean processPayment(double billAmt) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

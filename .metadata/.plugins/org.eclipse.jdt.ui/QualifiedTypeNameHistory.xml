@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.in.ashokit.DieselEngine"/>
+    <fullyQualifiedTypeName name="com.in.ashokit.PetrolEngine"/>
+    <fullyQualifiedTypeName name="in.ashokit.PaymentService"/>
+    <fullyQualifiedTypeName name="in.ashokit.IPayment"/>
+    <fullyQualifiedTypeName name="in.ashokit.DebitCardPayment"/>
+</qualifiedTypeNameHistroy>
