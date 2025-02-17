@@ -2,7 +2,9 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.in.ashokit.DieselEngine"/>
     <fullyQualifiedTypeName name="com.in.ashokit.PetrolEngine"/>
+    <fullyQualifiedTypeName name="in.ashokit.DebitCardPayment"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="in.ashokit.PaymentService"/>
     <fullyQualifiedTypeName name="in.ashokit.IPayment"/>
-    <fullyQualifiedTypeName name="in.ashokit.DebitCardPayment"/>
 </qualifiedTypeNameHistroy>

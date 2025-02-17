@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Spring,Springboot &amp; Microservice\03-SpringApp-01\src\main\java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -43,12 +44,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="in.ashokit"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="03-IOC-App"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
