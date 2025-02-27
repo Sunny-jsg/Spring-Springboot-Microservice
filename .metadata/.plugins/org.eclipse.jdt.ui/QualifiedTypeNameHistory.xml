@@ -3,8 +3,19 @@
     <fullyQualifiedTypeName name="com.in.ashokit.DieselEngine"/>
     <fullyQualifiedTypeName name="com.in.ashokit.PetrolEngine"/>
     <fullyQualifiedTypeName name="in.ashokit.DebitCardPayment"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="in.ashokit.PaymentService"/>
     <fullyQualifiedTypeName name="in.ashokit.IPayment"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.ReportService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="in.ashokit.AppConfig"/>
+    <fullyQualifiedTypeName name="in.ashokit.beans.ReportDao"/>
 </qualifiedTypeNameHistroy>
