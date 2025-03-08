@@ -30,12 +30,6 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
     <fullyQualifiedTypeName name="in.ashokit.repo.BookRepository"/>
     <fullyQualifiedTypeName name="in.ashokit.entity.Book"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
-    <fullyQualifiedTypeName name="lombok.Data"/>
-    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
-    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
     <fullyQualifiedTypeName name="in.ashokit.Repo.EmployeeRepository"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="org.springframework.data.domain.Sort"/>
@@ -43,4 +37,19 @@
     <fullyQualifiedTypeName name="in.ashokit.entity.Employee"/>
     <fullyQualifiedTypeName name="org.springframework.data.domain.Example"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.CreationTimestamp"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.UpdateTimestamp"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="in.ashokit.repo.StudentRepository"/>
+    <fullyQualifiedTypeName name="in.ashokit.entity.Student"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
 </qualifiedTypeNameHistroy>
