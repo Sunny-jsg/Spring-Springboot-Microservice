@@ -16,7 +16,7 @@ public class Application {
 		StudentRepository repo = ctxt.getBean(StudentRepository.class);
 		Student stu = new Student();
 		//stu.setSid(101);
-		stu.setSname("Rani");
+		stu.setSname("Ram");
 		stu.setMarks(499.00);
 		stu.setSection('A');
 		repo.save(stu);
