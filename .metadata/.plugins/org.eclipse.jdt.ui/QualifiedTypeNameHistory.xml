@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.in.ashokit.DieselEngine"/>
-    <fullyQualifiedTypeName name="com.in.ashokit.PetrolEngine"/>
-    <fullyQualifiedTypeName name="in.ashokit.DebitCardPayment"/>
     <fullyQualifiedTypeName name="in.ashokit.PaymentService"/>
     <fullyQualifiedTypeName name="in.ashokit.IPayment"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
     <fullyQualifiedTypeName name="in.ashokit.beans.ReportService"/>
     <fullyQualifiedTypeName name="in.ashokit.AppConfig"/>
@@ -16,7 +12,6 @@
     <fullyQualifiedTypeName name="in.ashokit.dto.User"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="in.ashokit.beans.UserDAO"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.DependsOn"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
@@ -26,7 +21,6 @@
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
     <fullyQualifiedTypeName name="in.ashokit.repo.BookRepository"/>
     <fullyQualifiedTypeName name="in.ashokit.entity.Book"/>
@@ -42,19 +36,28 @@
     <fullyQualifiedTypeName name="org.hibernate.annotations.CreationTimestamp"/>
     <fullyQualifiedTypeName name="org.hibernate.annotations.UpdateTimestamp"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
-    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
-    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
     <fullyQualifiedTypeName name="in.ashokit.repo.StudentRepository"/>
     <fullyQualifiedTypeName name="in.ashokit.entity.Student"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Embeddable"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
     <fullyQualifiedTypeName name="jakarta.persistence.EmbeddedId"/>
-    <fullyQualifiedTypeName name="lombok.Data"/>
     <fullyQualifiedTypeName name="in.ashokit.repo.AccountRepo"/>
     <fullyQualifiedTypeName name="in.ashokit.entity.AccountPK"/>
     <fullyQualifiedTypeName name="in.ashokit.entity.Account"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="in.ashokit.entity.Contact"/>
+    <fullyQualifiedTypeName name="in.ashokit.entity.Person"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="in.ashokit.service.PersonService"/>
+    <fullyQualifiedTypeName name="in.ashokit.service.ContactService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
 </qualifiedTypeNameHistroy>
