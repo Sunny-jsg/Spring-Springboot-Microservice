@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Spring,Springboot &amp; Microservice\18-WebMVC_Sever-change-Or_Exception-Handling"/>
 			<item value="D:\Spring,Springboot &amp; Microservice\03-SpringApp-01\pom.xml"/>
 			<item value="D:\Spring,Springboot &amp; Microservice\03-SpringApp-01\src\main\java"/>
 		</list>
@@ -15,6 +16,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -50,6 +52,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="19-JACKSON_APP"/>
 			<item value="06-Lombok-App"/>
 			<item value="05-SpringBean-LifeCycle-App"/>
 			<item value="04-Spring-Annotations-App"/>
