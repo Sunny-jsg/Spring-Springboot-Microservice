@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="in.ashokit.repo.AccountRepo"/>
-    <fullyQualifiedTypeName name="in.ashokit.entity.AccountPK"/>
-    <fullyQualifiedTypeName name="in.ashokit.entity.Account"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
     <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
     <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
     <fullyQualifiedTypeName name="in.ashokit.entity.Contact"/>
@@ -46,10 +42,8 @@
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
     <fullyQualifiedTypeName name="in.ashokit.binding.Customer"/>
-    <fullyQualifiedTypeName name="lombok.Data"/>
     <fullyQualifiedTypeName name="in.ashokit.binding.User"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
     <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
@@ -58,6 +52,12 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="jakarta.websocket.server.PathParam"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="in.ashokit.binding.Book"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="in.ashokit.Application"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="jakarta.xml.bind.annotation.XmlRootElement"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
 </qualifiedTypeNameHistroy>
