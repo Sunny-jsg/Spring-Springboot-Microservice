@@ -11,7 +11,8 @@
 	<groupId>in.ashokit</groupId>
 	<artifactId>22-IRCTC-Rest_Api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
+
 	<name>22-IRCTC-Rest_Api</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
@@ -48,6 +49,11 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
+    <groupId>org.springdoc</groupId>
+    <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+    <version>2.3.0</version>
+</dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
 			<scope>provided</scope>
@@ -60,6 +66,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>train-booking-app</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
